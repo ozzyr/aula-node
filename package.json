@@ -1,0 +1,19 @@
+{
+  "name": "aula-node",
+  "version": "0.0.1",
+  "description": "aulas de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozzyr/aula-node.git"
+  },
+  "author": "Magno Ozzyr",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/ozzyr/aula-node/issues"
+  },
+  "homepage": "https://github.com/ozzyr/aula-node#readme"
+}
